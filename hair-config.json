@@ -1,0 +1,69 @@
+{
+  "chains": [
+    {
+      "anchor": "chair1",
+      "bones": [
+        "chair2",
+        "chair3",
+        "chair4",
+        "chair5",
+        "chair6",
+        "chair7",
+        "chair8"
+      ],
+      "boneAxis": "+Y"
+    },
+    {
+      "anchor": "lchair1",
+      "bones": [
+        "lchair2",
+        "lchair3",
+        "lchair4",
+        "lchair5",
+        "lchair6",
+        "lchair7"
+      ],
+      "boneAxis": "+Y"
+    },
+    {
+      "anchor": "rchair1",
+      "bones": [
+        "rchair2",
+        "rchair3",
+        "rchair4",
+        "rchair5",
+        "rchair6",
+        "rchair7"
+      ],
+      "boneAxis": "+Y"
+    },
+    {
+      "anchor": "lhair1",
+      "bones": [
+        "lhair2",
+        "lhair3",
+        "lhair4",
+        "lhair5",
+        "lhair6",
+        "lhair7",
+        "lhair8",
+        "lhair9"
+      ],
+      "boneAxis": "+Y"
+    },
+    {
+      "anchor": "rhair1",
+      "bones": [
+        "rhair2",
+        "rhair3",
+        "rhair4",
+        "rhair5",
+        "rhair6",
+        "rhair7",
+        "rhair8",
+        "rhair9"
+      ],
+      "boneAxis": "+Y"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Head",
+        "type": "sphere",
+        "position": {
+            "x": -0.8243,
+            "y": 1.654,
+            "z": 0.0899
+        },
+        "radius": 0.2577
+    },
+    {
+        "name": "Body",
+        "type": "capsule",
+        "position": {
+            "x": -0.8197,
+            "y": 0.8892,
+            "z": 0.1108
+        },
+        "radius": 0.2503,
+        "height": 0.6408,
+        "quaternion": {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "w": 0
+        }
+    },
+    {
+        "name": "Arm",
+        "type": "capsule",
+        "position": {
+            "x": -0.8101,
+            "y": 1.2371,
+            "z": 0.0992
+        },
+        "radius": 0.159,
+        "height": 1.2409,
+        "quaternion": {
+            "x": 0,
+            "y": 0,
+            "z": -0.71,
+            "w": 0.7042
+        }
+    }
+]
